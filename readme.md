@@ -1,4 +1,4 @@
-# Customer Product Prediction System
+# Customer Product Prediction
 
 A Machine Learning–based web application that predicts the most likely product category a customer will purchase based on demographic and behavioral data.  
 The system uses a trained ML model and is deployed using Flask with an interactive web interface.
