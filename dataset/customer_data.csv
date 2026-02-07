@@ -1,0 +1,1001 @@
+customer_id,age,gender,annual_income,spending_score,browsing_time,past_purchases,last_product_category,target_product
+1,56,Male,1288075,39,83,13,Electronics,Home Appliances
+2,46,Male,645485,52,128,31,Groceries,Fashion
+3,32,Female,1493774,23,222,34,Books,Home Appliances
+4,25,Female,536585,89,8,9,Home Appliances,Electronics
+5,38,Male,222431,50,94,2,Home Appliances,Groceries
+6,56,Female,1443131,43,108,11,Electronics,Home Appliances
+7,36,Male,847008,19,123,48,Groceries,Home Appliances
+8,40,Male,773441,69,137,30,Fashion,Fashion
+9,28,Male,468512,51,100,28,Groceries,Fashion
+10,28,Male,1098792,11,147,4,Home Appliances,Home Appliances
+11,41,Female,376076,12,292,24,Books,Fashion
+12,53,Female,1468300,74,32,40,Fashion,Electronics
+13,57,Female,878758,8,282,30,Electronics,Home Appliances
+14,41,Male,953753,24,237,20,Fashion,Home Appliances
+15,20,Male,250861,92,21,19,Electronics,Electronics
+16,39,Male,1461553,41,63,38,Fashion,Home Appliances
+17,19,Female,851406,36,94,21,Electronics,Home Appliances
+18,41,Male,921001,85,203,3,Electronics,Electronics
+19,47,Female,209078,72,30,12,Fashion,Electronics
+20,55,Female,524912,55,29,44,Fashion,Fashion
+21,19,Female,1058058,9,271,41,Electronics,Home Appliances
+22,38,Female,1044092,47,185,49,Home Appliances,Home Appliances
+23,50,Female,1167290,15,72,48,Fashion,Home Appliances
+24,29,Female,415048,48,53,19,Groceries,Groceries
+25,39,Male,960581,82,179,12,Books,Electronics
+26,42,Male,1116838,42,56,16,Electronics,Home Appliances
+27,44,Female,849438,60,106,35,Electronics,Home Appliances
+28,59,Female,1405663,84,220,32,Books,Electronics
+29,45,Male,233320,70,192,0,Home Appliances,Groceries
+30,33,Female,527025,12,61,14,Books,Groceries
+31,32,Female,815115,2,51,12,Fashion,Home Appliances
+32,20,Male,564359,7,163,16,Books,Groceries
+33,54,Female,1143793,80,178,23,Electronics,Electronics
+34,24,Female,1143187,3,246,7,Books,Home Appliances
+35,38,Female,606845,3,286,49,Groceries,Fashion
+36,26,Male,300734,27,245,26,Fashion,Fashion
+37,56,Male,357702,40,9,44,Books,Fashion
+38,35,Male,954122,33,88,22,Electronics,Home Appliances
+39,21,Female,1425811,92,252,45,Fashion,Electronics
+40,42,Female,1347087,1,58,7,Electronics,Home Appliances
+41,31,Male,1183939,8,165,7,Home Appliances,Home Appliances
+42,26,Female,806229,32,230,25,Groceries,Home Appliances
+43,43,Female,929497,48,19,46,Home Appliances,Home Appliances
+44,19,Female,298818,4,228,12,Groceries,Groceries
+45,37,Female,1173950,94,65,38,Books,Electronics
+46,45,Female,352360,70,126,36,Fashion,Fashion
+47,24,Male,819369,19,281,48,Books,Home Appliances
+48,25,Female,761165,32,50,27,Groceries,Fashion
+49,52,Male,573706,9,298,24,Groceries,Fashion
+50,31,Female,1132817,12,66,15,Groceries,Home Appliances
+51,34,Male,1460533,11,90,1,Electronics,Home Appliances
+52,53,Female,272715,46,214,17,Fashion,Groceries
+53,57,Male,341398,16,82,16,Books,Groceries
+54,21,Female,1381208,1,206,29,Books,Home Appliances
+55,19,Male,1065580,63,227,38,Home Appliances,Home Appliances
+56,23,Female,283186,21,226,12,Groceries,Groceries
+57,59,Male,1399670,30,7,31,Groceries,Home Appliances
+58,21,Female,794604,13,10,49,Groceries,Fashion
+59,46,Male,1276956,34,97,28,Books,Home Appliances
+60,35,Male,834486,4,12,45,Home Appliances,Home Appliances
+61,43,Female,464500,28,239,29,Electronics,Fashion
+62,51,Female,270326,95,112,17,Fashion,Electronics
+63,27,Male,1078879,59,165,12,Electronics,Home Appliances
+64,53,Female,839282,27,213,42,Books,Home Appliances
+65,31,Male,420971,69,244,20,Groceries,Groceries
+66,48,Male,1006481,25,54,29,Fashion,Home Appliances
+67,32,Male,1417060,3,15,20,Books,Home Appliances
+68,25,Female,1231519,97,160,47,Books,Electronics
+69,31,Male,989352,68,74,16,Books,Home Appliances
+70,40,Male,684410,25,173,39,Fashion,Fashion
+71,57,Female,425314,20,276,18,Fashion,Groceries
+72,38,Female,716998,34,72,14,Home Appliances,Groceries
+73,33,Female,1147531,26,256,8,Home Appliances,Home Appliances
+74,35,Female,665757,5,52,9,Electronics,Groceries
+75,41,Male,708062,99,188,43,Fashion,Electronics
+76,43,Male,332028,61,191,30,Fashion,Fashion
+77,42,Male,431447,92,94,22,Fashion,Electronics
+78,58,Male,1060563,93,143,29,Home Appliances,Electronics
+79,46,Female,1195843,9,93,32,Books,Home Appliances
+80,32,Male,826045,50,278,8,Groceries,Home Appliances
+81,18,Male,501207,6,23,46,Home Appliances,Fashion
+82,42,Female,466847,83,158,0,Fashion,Electronics
+83,24,Male,920488,60,264,43,Home Appliances,Home Appliances
+84,26,Male,796387,44,112,34,Electronics,Fashion
+85,41,Male,619065,11,289,10,Fashion,Groceries
+86,18,Male,887220,66,63,33,Electronics,Home Appliances
+87,25,Male,231585,47,129,15,Fashion,Groceries
+88,41,Male,1195043,73,277,8,Home Appliances,Electronics
+89,28,Female,489102,85,111,31,Books,Electronics
+90,34,Female,1162854,88,249,14,Groceries,Electronics
+91,25,Male,479922,98,251,11,Electronics,Electronics
+92,52,Male,900601,86,12,32,Home Appliances,Electronics
+93,52,Female,1290805,3,145,44,Books,Home Appliances
+94,50,Male,1335228,76,12,13,Home Appliances,Electronics
+95,22,Male,1114699,92,98,7,Electronics,Electronics
+96,59,Male,449474,30,43,7,Groceries,Groceries
+97,56,Female,1112935,90,85,26,Home Appliances,Electronics
+98,58,Male,460116,21,191,11,Fashion,Groceries
+99,45,Female,1071310,28,88,0,Books,Home Appliances
+100,24,Male,1144994,90,92,42,Home Appliances,Electronics
+101,26,Female,720985,62,246,39,Books,Fashion
+102,25,Female,219975,33,97,41,Fashion,Fashion
+103,29,Male,357795,85,90,10,Groceries,Electronics
+104,51,Female,1457949,35,48,38,Groceries,Home Appliances
+105,50,Male,1129065,52,141,42,Fashion,Home Appliances
+106,40,Female,1224939,34,78,30,Books,Home Appliances
+107,41,Male,1445709,41,40,16,Home Appliances,Home Appliances
+108,54,Male,1074829,51,105,32,Fashion,Home Appliances
+109,52,Female,1424613,47,160,31,Electronics,Home Appliances
+110,57,Male,588076,82,259,28,Books,Electronics
+111,39,Male,860008,58,175,20,Groceries,Home Appliances
+112,44,Female,890493,75,220,20,Fashion,Electronics
+113,52,Male,1168181,57,174,39,Groceries,Home Appliances
+114,18,Male,820347,23,256,22,Books,Home Appliances
+115,52,Female,1212092,48,59,5,Groceries,Home Appliances
+116,54,Female,822605,22,95,21,Fashion,Home Appliances
+117,31,Male,925495,17,282,49,Books,Home Appliances
+118,20,Male,301459,69,105,37,Electronics,Fashion
+119,18,Female,961985,11,159,36,Fashion,Home Appliances
+120,22,Female,400422,94,145,44,Home Appliances,Electronics
+121,43,Male,1350096,15,177,7,Fashion,Home Appliances
+122,31,Female,785560,91,14,40,Books,Electronics
+123,56,Male,947512,35,232,48,Fashion,Home Appliances
+124,44,Male,716123,33,269,34,Electronics,Fashion
+125,26,Male,526818,84,252,10,Electronics,Electronics
+126,32,Male,1236548,16,251,23,Home Appliances,Home Appliances
+127,32,Male,344832,34,159,48,Groceries,Fashion
+128,43,Female,352999,66,38,20,Books,Groceries
+129,59,Female,548619,99,133,1,Books,Electronics
+130,30,Female,261367,40,164,39,Groceries,Fashion
+131,49,Female,953315,28,93,18,Electronics,Home Appliances
+132,56,Male,605804,47,97,38,Electronics,Fashion
+133,49,Male,1108182,39,245,27,Fashion,Home Appliances
+134,21,Male,957038,70,121,16,Home Appliances,Home Appliances
+135,47,Male,1484382,73,98,5,Home Appliances,Electronics
+136,54,Female,1104586,20,167,18,Home Appliances,Home Appliances
+137,40,Male,1293314,1,103,37,Fashion,Home Appliances
+138,56,Male,757685,72,117,27,Home Appliances,Electronics
+139,32,Female,1242377,87,95,1,Groceries,Electronics
+140,46,Female,402332,63,210,37,Fashion,Fashion
+141,53,Female,582729,67,21,36,Groceries,Fashion
+142,30,Female,1360029,4,278,3,Fashion,Home Appliances
+143,49,Male,1268392,58,177,21,Home Appliances,Home Appliances
+144,24,Male,1159744,25,120,25,Groceries,Home Appliances
+145,39,Female,1123780,47,185,48,Groceries,Home Appliances
+146,45,Male,969299,38,95,42,Groceries,Home Appliances
+147,19,Male,1206080,15,86,35,Fashion,Home Appliances
+148,59,Male,571000,63,118,12,Books,Groceries
+149,23,Female,413567,21,261,31,Home Appliances,Fashion
+150,45,Male,795923,99,62,16,Groceries,Electronics
+151,45,Female,416184,57,158,40,Books,Fashion
+152,37,Male,498090,53,120,35,Home Appliances,Fashion
+153,47,Male,517348,46,270,45,Home Appliances,Fashion
+154,28,Male,1431534,14,207,18,Groceries,Home Appliances
+155,45,Female,1189156,76,45,34,Groceries,Electronics
+156,42,Male,292324,17,109,45,Fashion,Fashion
+157,56,Female,423536,39,197,39,Books,Fashion
+158,50,Female,226155,9,282,27,Books,Fashion
+159,18,Female,541815,99,241,0,Groceries,Electronics
+160,44,Male,660494,77,225,41,Home Appliances,Electronics
+161,30,Male,349381,79,72,17,Groceries,Electronics
+162,58,Male,1380267,82,201,47,Home Appliances,Electronics
+163,20,Male,643324,97,260,39,Home Appliances,Electronics
+164,56,Female,234707,6,143,32,Groceries,Fashion
+165,23,Female,1137841,91,153,11,Electronics,Electronics
+166,25,Female,946788,23,103,7,Books,Home Appliances
+167,44,Male,553299,59,80,23,Home Appliances,Fashion
+168,26,Female,1407068,91,286,15,Home Appliances,Electronics
+169,54,Male,370102,98,113,49,Electronics,Electronics
+170,50,Female,594274,46,192,3,Fashion,Groceries
+171,59,Male,417285,38,203,37,Electronics,Fashion
+172,41,Male,1408052,14,158,43,Electronics,Home Appliances
+173,32,Female,958842,72,44,26,Home Appliances,Electronics
+174,49,Female,1222788,62,137,8,Books,Home Appliances
+175,49,Female,1409504,35,136,46,Electronics,Home Appliances
+176,41,Female,1050610,19,283,15,Fashion,Home Appliances
+177,58,Male,496141,30,88,11,Groceries,Groceries
+178,29,Female,1143115,78,246,30,Electronics,Electronics
+179,56,Female,1497076,84,120,23,Electronics,Electronics
+180,19,Female,1380887,25,113,13,Fashion,Home Appliances
+181,20,Male,445546,40,225,44,Books,Fashion
+182,54,Male,1445309,88,45,24,Electronics,Electronics
+183,34,Female,851233,14,151,33,Electronics,Home Appliances
+184,19,Male,1241592,26,116,2,Books,Home Appliances
+185,19,Female,346470,87,107,23,Fashion,Electronics
+186,45,Male,844318,22,50,41,Electronics,Home Appliances
+187,40,Male,1255146,48,275,8,Books,Home Appliances
+188,54,Male,530929,83,199,25,Electronics,Electronics
+189,49,Male,279141,51,284,19,Groceries,Groceries
+190,50,Female,212115,3,287,39,Home Appliances,Fashion
+191,18,Female,1287638,42,44,9,Groceries,Home Appliances
+192,36,Female,1009343,19,193,18,Electronics,Home Appliances
+193,19,Male,590479,73,168,2,Fashion,Electronics
+194,43,Female,1030185,28,28,23,Home Appliances,Home Appliances
+195,49,Female,597686,84,28,4,Groceries,Electronics
+196,23,Female,1370439,45,8,2,Books,Home Appliances
+197,49,Male,996657,71,294,26,Fashion,Electronics
+198,21,Male,847296,78,185,15,Groceries,Electronics
+199,28,Male,1225799,63,252,48,Books,Home Appliances
+200,34,Female,1000101,73,120,14,Electronics,Electronics
+201,55,Female,1244257,19,283,34,Books,Home Appliances
+202,41,Female,248320,47,73,11,Groceries,Groceries
+203,22,Male,1164918,14,258,40,Groceries,Home Appliances
+204,51,Male,696758,38,185,43,Electronics,Fashion
+205,23,Female,1395225,53,173,25,Books,Home Appliances
+206,39,Male,1373930,61,253,46,Books,Home Appliances
+207,28,Male,812297,36,192,33,Electronics,Home Appliances
+208,33,Male,648625,40,58,22,Books,Fashion
+209,50,Male,228625,81,142,30,Electronics,Electronics
+210,26,Female,936400,30,172,49,Fashion,Home Appliances
+211,23,Male,1285063,9,107,19,Groceries,Home Appliances
+212,33,Male,1476647,64,89,11,Fashion,Home Appliances
+213,46,Male,688011,33,216,22,Home Appliances,Fashion
+214,20,Male,1422471,52,7,3,Home Appliances,Home Appliances
+215,37,Female,630424,89,183,22,Home Appliances,Electronics
+216,53,Female,516205,14,42,47,Electronics,Fashion
+217,36,Male,1148163,75,243,47,Books,Electronics
+218,43,Male,1247328,53,173,0,Fashion,Home Appliances
+219,20,Male,301376,99,34,24,Fashion,Electronics
+220,36,Male,1033487,59,194,1,Fashion,Home Appliances
+221,37,Male,967629,78,29,29,Fashion,Electronics
+222,49,Male,358056,94,116,2,Home Appliances,Electronics
+223,24,Female,834457,41,210,20,Fashion,Home Appliances
+224,58,Male,760347,68,189,24,Books,Fashion
+225,50,Female,662785,68,51,19,Home Appliances,Groceries
+226,57,Female,1232766,92,232,48,Fashion,Electronics
+227,56,Male,729992,8,43,21,Electronics,Fashion
+228,35,Female,1178080,2,20,20,Groceries,Home Appliances
+229,57,Female,928744,86,26,32,Groceries,Electronics
+230,18,Female,942488,41,217,37,Groceries,Home Appliances
+231,28,Female,835567,55,153,14,Home Appliances,Home Appliances
+232,45,Female,882568,16,245,45,Fashion,Home Appliances
+233,42,Female,842804,93,276,14,Home Appliances,Electronics
+234,40,Male,722828,62,63,45,Books,Fashion
+235,48,Female,678366,48,291,24,Electronics,Fashion
+236,47,Female,921384,30,206,20,Electronics,Home Appliances
+237,59,Female,1157386,12,36,23,Groceries,Home Appliances
+238,52,Male,619139,35,166,4,Groceries,Groceries
+239,24,Female,719777,11,259,5,Groceries,Groceries
+240,33,Male,432549,64,258,48,Fashion,Fashion
+241,43,Female,684965,50,13,42,Books,Fashion
+242,19,Male,990546,85,143,47,Books,Electronics
+243,18,Male,1182469,21,14,43,Books,Home Appliances
+244,29,Female,236321,69,218,46,Books,Fashion
+245,22,Female,535441,48,277,22,Groceries,Fashion
+246,54,Male,1493590,20,52,3,Electronics,Home Appliances
+247,49,Female,356498,67,115,26,Groceries,Fashion
+248,26,Male,1266348,44,157,17,Books,Home Appliances
+249,58,Male,990144,33,127,20,Groceries,Home Appliances
+250,52,Male,594583,73,106,27,Books,Electronics
+251,36,Male,438389,61,245,34,Home Appliances,Fashion
+252,33,Male,839430,9,195,21,Electronics,Home Appliances
+253,20,Female,1300500,68,221,39,Home Appliances,Home Appliances
+254,37,Male,1276299,35,55,22,Fashion,Home Appliances
+255,41,Male,958470,81,296,2,Groceries,Electronics
+256,50,Female,864468,98,85,39,Fashion,Electronics
+257,41,Male,408786,88,92,49,Groceries,Electronics
+258,28,Female,886684,96,198,9,Home Appliances,Electronics
+259,25,Female,1463008,65,108,24,Books,Home Appliances
+260,53,Female,1228400,8,275,48,Books,Home Appliances
+261,55,Male,1388575,45,100,7,Groceries,Home Appliances
+262,57,Male,1080112,87,202,10,Books,Electronics
+263,37,Male,558690,47,5,4,Home Appliances,Groceries
+264,52,Female,1139947,40,171,44,Books,Home Appliances
+265,42,Male,279973,76,130,36,Home Appliances,Electronics
+266,52,Female,834122,54,85,44,Fashion,Home Appliances
+267,42,Male,1248173,76,255,37,Home Appliances,Electronics
+268,46,Female,487681,46,173,28,Electronics,Fashion
+269,35,Male,694509,47,77,4,Electronics,Groceries
+270,35,Male,425049,15,145,8,Electronics,Groceries
+271,19,Male,366703,19,74,47,Groceries,Fashion
+272,52,Female,964357,26,266,1,Groceries,Home Appliances
+273,33,Female,947419,52,249,0,Groceries,Home Appliances
+274,58,Male,1279924,93,7,39,Home Appliances,Electronics
+275,53,Male,1444380,22,67,29,Groceries,Home Appliances
+276,50,Female,335832,21,53,10,Fashion,Groceries
+277,21,Female,483780,51,80,27,Electronics,Fashion
+278,50,Female,1302127,38,179,43,Home Appliances,Home Appliances
+279,31,Male,604772,20,113,11,Electronics,Groceries
+280,38,Female,771107,29,187,38,Groceries,Fashion
+281,37,Male,1208559,51,196,25,Home Appliances,Home Appliances
+282,25,Female,620182,4,69,12,Books,Groceries
+283,24,Male,1461357,55,275,7,Fashion,Home Appliances
+284,20,Female,882347,71,104,27,Groceries,Electronics
+285,34,Female,1222378,92,36,29,Groceries,Electronics
+286,50,Female,913708,28,132,8,Fashion,Home Appliances
+287,29,Female,748884,4,47,38,Fashion,Fashion
+288,39,Female,1050538,22,82,30,Books,Home Appliances
+289,39,Male,1225014,76,293,20,Groceries,Electronics
+290,47,Female,1187471,45,274,46,Groceries,Home Appliances
+291,55,Female,259182,67,166,33,Electronics,Fashion
+292,55,Female,549307,86,193,30,Home Appliances,Electronics
+293,25,Male,501454,66,251,24,Home Appliances,Fashion
+294,44,Female,1388554,88,220,11,Electronics,Electronics
+295,44,Male,1023346,34,172,0,Home Appliances,Home Appliances
+296,51,Female,1096782,91,197,21,Fashion,Electronics
+297,38,Female,970188,55,287,39,Home Appliances,Home Appliances
+298,47,Male,458517,1,17,36,Home Appliances,Fashion
+299,50,Female,1155154,72,244,46,Electronics,Electronics
+300,45,Male,337084,87,151,0,Books,Electronics
+301,50,Male,905475,38,208,0,Home Appliances,Home Appliances
+302,22,Female,782004,6,84,41,Home Appliances,Fashion
+303,36,Male,1080179,86,47,41,Books,Electronics
+304,21,Female,948013,25,93,20,Electronics,Home Appliances
+305,52,Female,891738,82,152,14,Books,Electronics
+306,34,Male,1452078,17,99,16,Electronics,Home Appliances
+307,45,Male,344539,61,155,21,Fashion,Fashion
+308,47,Male,624226,12,6,37,Electronics,Fashion
+309,46,Male,1370575,6,26,34,Fashion,Home Appliances
+310,23,Female,1363369,90,11,44,Fashion,Electronics
+311,52,Female,212289,27,210,15,Electronics,Groceries
+312,58,Male,900336,8,118,7,Groceries,Home Appliances
+313,54,Female,898956,83,276,46,Electronics,Electronics
+314,41,Female,286365,65,87,16,Home Appliances,Groceries
+315,46,Female,954950,57,183,16,Home Appliances,Home Appliances
+316,48,Female,375211,93,214,25,Groceries,Electronics
+317,52,Male,1428361,99,128,12,Fashion,Electronics
+318,50,Male,1321164,40,117,16,Groceries,Home Appliances
+319,38,Female,263646,14,16,37,Home Appliances,Fashion
+320,49,Male,465798,35,130,16,Groceries,Groceries
+321,40,Male,929532,48,57,47,Electronics,Home Appliances
+322,50,Male,1123945,84,287,13,Groceries,Electronics
+323,20,Female,1368311,56,144,44,Fashion,Home Appliances
+324,35,Female,355683,49,101,5,Electronics,Groceries
+325,42,Female,1106323,13,9,34,Books,Home Appliances
+326,59,Male,832259,61,61,45,Home Appliances,Home Appliances
+327,48,Female,736437,49,73,13,Home Appliances,Groceries
+328,20,Female,766956,46,122,46,Groceries,Fashion
+329,57,Male,1194170,62,63,7,Electronics,Home Appliances
+330,41,Female,812492,8,37,14,Books,Home Appliances
+331,49,Female,411830,43,54,26,Electronics,Fashion
+332,39,Male,1445077,20,23,12,Home Appliances,Home Appliances
+333,40,Male,365140,97,218,48,Electronics,Electronics
+334,19,Male,1389083,90,201,30,Books,Electronics
+335,44,Female,425160,39,51,34,Groceries,Fashion
+336,59,Female,1431897,85,171,5,Fashion,Electronics
+337,19,Female,761672,49,293,4,Electronics,Groceries
+338,43,Male,721998,64,145,21,Fashion,Fashion
+339,34,Male,806217,62,88,48,Home Appliances,Home Appliances
+340,57,Female,275388,54,186,22,Groceries,Fashion
+341,50,Female,755689,9,83,24,Groceries,Fashion
+342,26,Male,718727,88,219,33,Electronics,Electronics
+343,56,Male,432601,37,18,25,Groceries,Fashion
+344,46,Male,1376410,49,219,46,Electronics,Home Appliances
+345,59,Male,1282660,41,132,4,Electronics,Home Appliances
+346,43,Female,305111,17,252,25,Fashion,Fashion
+347,52,Male,629667,88,33,19,Groceries,Electronics
+348,42,Female,362982,21,284,5,Electronics,Groceries
+349,41,Female,498185,51,206,5,Fashion,Groceries
+350,30,Female,434386,59,61,49,Books,Fashion
+351,24,Male,1445129,39,222,17,Fashion,Home Appliances
+352,53,Male,661792,55,66,3,Fashion,Groceries
+353,37,Male,701174,41,161,16,Electronics,Groceries
+354,18,Male,984625,39,206,13,Home Appliances,Home Appliances
+355,25,Female,851844,13,21,13,Home Appliances,Home Appliances
+356,33,Male,395246,64,10,12,Home Appliances,Groceries
+357,31,Male,446242,11,62,6,Fashion,Groceries
+358,29,Female,711083,19,173,43,Electronics,Fashion
+359,40,Male,217633,11,86,14,Groceries,Groceries
+360,32,Female,1212384,77,223,18,Fashion,Electronics
+361,45,Female,1066964,46,181,42,Fashion,Home Appliances
+362,51,Female,249104,45,208,46,Electronics,Fashion
+363,19,Female,1159125,1,75,43,Books,Home Appliances
+364,49,Female,1063663,40,270,34,Fashion,Home Appliances
+365,40,Female,1316964,19,102,16,Books,Home Appliances
+366,39,Female,1341154,76,295,34,Books,Electronics
+367,42,Female,889115,72,212,18,Home Appliances,Electronics
+368,39,Male,764678,72,6,19,Electronics,Electronics
+369,39,Male,1340234,61,128,35,Books,Home Appliances
+370,59,Male,257993,12,284,34,Electronics,Fashion
+371,23,Male,405768,61,78,31,Home Appliances,Fashion
+372,32,Female,1406861,33,170,47,Electronics,Home Appliances
+373,54,Male,971148,45,26,43,Fashion,Home Appliances
+374,50,Female,1222460,90,158,39,Books,Electronics
+375,25,Male,993853,92,299,23,Electronics,Electronics
+376,22,Male,942296,69,223,16,Groceries,Home Appliances
+377,56,Male,742015,8,161,6,Electronics,Groceries
+378,21,Female,1098850,25,234,42,Books,Home Appliances
+379,23,Male,457681,91,24,49,Home Appliances,Electronics
+380,49,Female,294018,46,45,0,Home Appliances,Groceries
+381,47,Female,429104,87,152,34,Books,Electronics
+382,52,Male,1042186,30,112,31,Fashion,Home Appliances
+383,57,Male,393510,47,88,35,Fashion,Fashion
+384,33,Male,1358423,87,294,12,Home Appliances,Electronics
+385,30,Female,654162,49,138,5,Home Appliances,Groceries
+386,59,Male,1024899,47,211,13,Books,Home Appliances
+387,47,Female,1135129,84,287,36,Fashion,Electronics
+388,36,Female,1324905,82,270,47,Home Appliances,Electronics
+389,34,Male,1279583,18,77,14,Fashion,Home Appliances
+390,36,Male,1208806,66,52,46,Home Appliances,Home Appliances
+391,45,Female,894892,68,237,3,Electronics,Home Appliances
+392,43,Female,1260899,94,104,39,Groceries,Electronics
+393,54,Female,1097767,33,63,15,Electronics,Home Appliances
+394,43,Male,1360932,36,262,27,Home Appliances,Home Appliances
+395,40,Female,835232,82,69,15,Groceries,Electronics
+396,26,Male,404451,19,87,3,Groceries,Groceries
+397,29,Female,755655,28,158,44,Home Appliances,Fashion
+398,18,Female,1303200,40,270,25,Home Appliances,Home Appliances
+399,18,Male,603322,84,83,27,Fashion,Electronics
+400,51,Female,1483141,97,154,31,Home Appliances,Electronics
+401,49,Male,268008,76,52,44,Books,Electronics
+402,42,Male,577539,15,252,1,Home Appliances,Groceries
+403,57,Female,316492,41,282,30,Books,Fashion
+404,18,Male,272240,39,102,2,Home Appliances,Groceries
+405,33,Male,1186753,2,29,7,Fashion,Home Appliances
+406,56,Female,925947,63,288,23,Books,Home Appliances
+407,22,Male,472900,29,72,14,Electronics,Groceries
+408,39,Male,661227,74,11,42,Books,Electronics
+409,46,Male,335327,66,141,30,Fashion,Fashion
+410,20,Female,849991,51,168,8,Books,Home Appliances
+411,29,Male,1042981,75,87,38,Home Appliances,Electronics
+412,43,Female,365575,77,142,44,Home Appliances,Electronics
+413,33,Female,1243445,10,77,1,Fashion,Home Appliances
+414,54,Male,693948,14,241,7,Groceries,Groceries
+415,39,Male,429189,82,50,6,Home Appliances,Electronics
+416,46,Male,598465,51,110,43,Electronics,Fashion
+417,31,Female,451051,73,292,38,Fashion,Electronics
+418,45,Male,1136705,39,266,41,Books,Home Appliances
+419,22,Male,849829,28,180,15,Books,Home Appliances
+420,47,Male,913936,3,170,34,Electronics,Home Appliances
+421,22,Male,980641,84,149,29,Home Appliances,Electronics
+422,29,Male,471830,70,287,9,Fashion,Groceries
+423,33,Female,515507,27,58,37,Electronics,Fashion
+424,43,Female,559687,2,182,17,Home Appliances,Groceries
+425,43,Male,1424491,93,248,49,Fashion,Electronics
+426,38,Male,654179,38,131,4,Books,Groceries
+427,56,Male,1230596,3,275,28,Fashion,Home Appliances
+428,53,Male,242828,16,136,38,Groceries,Fashion
+429,50,Female,1035036,94,97,33,Fashion,Electronics
+430,47,Male,472670,40,77,42,Groceries,Fashion
+431,54,Female,1274168,2,252,44,Fashion,Home Appliances
+432,40,Female,491126,81,277,22,Groceries,Electronics
+433,27,Male,986639,41,47,4,Books,Home Appliances
+434,22,Female,1480617,12,45,29,Home Appliances,Home Appliances
+435,53,Female,954296,35,174,5,Groceries,Home Appliances
+436,51,Female,324982,65,216,45,Groceries,Fashion
+437,48,Female,1317195,55,172,43,Books,Home Appliances
+438,27,Male,508623,45,43,3,Groceries,Groceries
+439,36,Male,1399751,79,249,28,Electronics,Electronics
+440,49,Female,370963,90,155,22,Books,Electronics
+441,18,Male,1390402,85,115,5,Electronics,Electronics
+442,22,Male,1067869,62,51,31,Books,Home Appliances
+443,21,Male,1347116,49,67,41,Groceries,Home Appliances
+444,33,Male,1059414,95,229,17,Electronics,Electronics
+445,41,Male,386994,25,73,14,Groceries,Groceries
+446,33,Female,510375,23,294,39,Books,Fashion
+447,19,Male,229301,24,207,31,Groceries,Fashion
+448,45,Male,1471300,38,65,8,Electronics,Home Appliances
+449,49,Male,1244327,28,165,36,Electronics,Home Appliances
+450,44,Male,393783,21,20,9,Groceries,Groceries
+451,37,Female,218752,54,98,19,Fashion,Groceries
+452,41,Female,1215416,18,142,5,Books,Home Appliances
+453,29,Female,937565,36,42,47,Books,Home Appliances
+454,52,Female,868755,99,131,2,Groceries,Electronics
+455,50,Male,417029,45,279,41,Fashion,Fashion
+456,50,Female,1107669,73,168,10,Electronics,Electronics
+457,54,Male,1304849,53,81,42,Home Appliances,Home Appliances
+458,29,Male,1368544,30,178,16,Home Appliances,Home Appliances
+459,20,Male,577844,60,95,31,Groceries,Fashion
+460,18,Male,210699,98,242,3,Fashion,Electronics
+461,50,Male,1444709,32,268,3,Fashion,Home Appliances
+462,57,Female,734003,67,183,16,Books,Groceries
+463,27,Female,1267745,67,213,40,Electronics,Home Appliances
+464,46,Female,718652,28,77,18,Fashion,Groceries
+465,30,Female,318413,44,111,4,Home Appliances,Groceries
+466,29,Male,1373057,79,299,31,Electronics,Electronics
+467,48,Female,415400,41,288,21,Electronics,Fashion
+468,19,Male,1232532,63,186,5,Groceries,Home Appliances
+469,52,Female,759873,23,41,34,Fashion,Fashion
+470,40,Male,1427512,75,141,21,Groceries,Electronics
+471,34,Male,592136,48,60,0,Fashion,Groceries
+472,43,Female,589954,32,191,19,Books,Groceries
+473,25,Male,238067,57,262,21,Groceries,Fashion
+474,46,Male,218073,33,62,47,Groceries,Fashion
+475,43,Female,236035,24,127,10,Home Appliances,Groceries
+476,27,Male,1444625,39,192,12,Groceries,Home Appliances
+477,43,Female,433782,34,234,41,Fashion,Fashion
+478,51,Female,814661,56,172,2,Home Appliances,Home Appliances
+479,58,Female,814805,28,118,8,Groceries,Home Appliances
+480,24,Male,926331,37,256,11,Groceries,Home Appliances
+481,21,Male,261929,7,111,22,Books,Fashion
+482,28,Male,957771,68,41,13,Groceries,Home Appliances
+483,46,Female,1085296,37,96,32,Electronics,Home Appliances
+484,53,Male,867689,56,22,17,Home Appliances,Home Appliances
+485,42,Female,980965,65,67,48,Electronics,Home Appliances
+486,38,Female,487313,65,154,40,Home Appliances,Fashion
+487,53,Male,287468,47,143,8,Books,Groceries
+488,27,Female,1283170,20,190,22,Groceries,Home Appliances
+489,54,Male,391703,19,189,9,Groceries,Groceries
+490,26,Male,1293609,29,209,18,Groceries,Home Appliances
+491,41,Male,1190669,74,264,46,Home Appliances,Electronics
+492,52,Male,1322437,60,218,4,Groceries,Home Appliances
+493,52,Male,907650,18,260,46,Electronics,Home Appliances
+494,53,Female,493894,92,139,22,Groceries,Electronics
+495,35,Female,1326798,35,65,29,Books,Home Appliances
+496,56,Female,836308,43,92,24,Electronics,Home Appliances
+497,49,Male,993153,95,211,27,Groceries,Electronics
+498,41,Male,744897,91,133,33,Groceries,Electronics
+499,40,Male,1452557,11,7,44,Fashion,Home Appliances
+500,49,Female,304211,49,246,47,Home Appliances,Fashion
+501,54,Male,1434897,38,125,46,Electronics,Home Appliances
+502,29,Female,687689,64,106,24,Fashion,Fashion
+503,30,Female,1123160,69,42,9,Books,Home Appliances
+504,40,Male,1060952,8,137,13,Home Appliances,Home Appliances
+505,42,Male,1050741,34,206,41,Electronics,Home Appliances
+506,52,Female,1278560,48,25,45,Groceries,Home Appliances
+507,58,Male,1254477,56,246,29,Electronics,Home Appliances
+508,47,Female,362624,76,113,40,Groceries,Electronics
+509,34,Male,1470893,65,88,24,Home Appliances,Home Appliances
+510,37,Male,893045,31,87,13,Groceries,Home Appliances
+511,42,Female,1191469,4,295,34,Books,Home Appliances
+512,39,Male,345788,50,73,47,Groceries,Fashion
+513,30,Female,838387,69,133,33,Books,Home Appliances
+514,36,Male,735426,30,200,9,Home Appliances,Groceries
+515,53,Female,890658,88,144,34,Home Appliances,Electronics
+516,29,Female,1168616,59,287,10,Electronics,Home Appliances
+517,58,Male,223429,67,238,10,Books,Groceries
+518,36,Female,1450956,75,27,20,Books,Electronics
+519,29,Male,972577,45,157,20,Fashion,Home Appliances
+520,26,Male,1493703,4,281,21,Fashion,Home Appliances
+521,24,Male,1087700,26,65,44,Fashion,Home Appliances
+522,45,Female,1265923,27,56,6,Groceries,Home Appliances
+523,31,Female,756110,46,157,16,Fashion,Groceries
+524,48,Male,1164163,64,241,1,Books,Home Appliances
+525,36,Male,1115387,91,36,11,Groceries,Electronics
+526,33,Female,207967,51,59,41,Home Appliances,Fashion
+527,22,Male,425371,50,40,17,Electronics,Groceries
+528,52,Male,1457100,6,114,10,Fashion,Home Appliances
+529,29,Female,1413261,59,181,15,Home Appliances,Home Appliances
+530,42,Male,752467,15,299,48,Books,Fashion
+531,38,Female,451537,30,101,17,Electronics,Groceries
+532,53,Male,1041531,42,217,34,Home Appliances,Home Appliances
+533,40,Female,1064645,37,141,25,Electronics,Home Appliances
+534,33,Male,1135772,42,10,15,Fashion,Home Appliances
+535,56,Male,671082,35,113,5,Books,Groceries
+536,59,Female,260545,87,39,43,Electronics,Electronics
+537,56,Male,1483131,6,43,42,Home Appliances,Home Appliances
+538,31,Female,423894,68,154,46,Fashion,Fashion
+539,48,Male,927506,18,122,46,Fashion,Home Appliances
+540,22,Female,1189470,73,265,47,Home Appliances,Electronics
+541,52,Female,450497,29,91,41,Home Appliances,Fashion
+542,40,Female,1173181,77,80,11,Electronics,Electronics
+543,46,Female,1219658,59,218,12,Groceries,Home Appliances
+544,28,Male,901692,47,289,3,Fashion,Home Appliances
+545,35,Male,1106295,17,243,38,Electronics,Home Appliances
+546,29,Female,1404680,96,169,1,Home Appliances,Electronics
+547,26,Female,893206,22,91,25,Electronics,Home Appliances
+548,27,Female,1293512,68,145,26,Home Appliances,Home Appliances
+549,34,Male,885154,69,164,26,Books,Home Appliances
+550,55,Male,1450632,37,50,14,Home Appliances,Home Appliances
+551,24,Male,425469,49,116,7,Home Appliances,Groceries
+552,30,Male,1276717,13,49,6,Home Appliances,Home Appliances
+553,57,Female,337478,34,251,46,Groceries,Fashion
+554,59,Female,1345935,86,108,45,Home Appliances,Electronics
+555,26,Female,1109711,53,89,39,Fashion,Home Appliances
+556,44,Male,1402939,87,138,11,Fashion,Electronics
+557,19,Male,821827,51,112,12,Electronics,Home Appliances
+558,22,Male,693158,3,22,42,Groceries,Fashion
+559,46,Female,223312,42,98,16,Electronics,Groceries
+560,54,Female,1160612,98,154,16,Fashion,Electronics
+561,55,Male,627387,32,250,35,Fashion,Fashion
+562,36,Female,634995,51,293,20,Books,Groceries
+563,25,Male,998843,85,213,7,Home Appliances,Electronics
+564,18,Male,1497638,46,130,4,Fashion,Home Appliances
+565,39,Female,1043441,21,239,25,Electronics,Home Appliances
+566,34,Male,635684,44,126,15,Electronics,Groceries
+567,24,Female,257022,11,142,35,Home Appliances,Fashion
+568,42,Male,533373,68,119,27,Home Appliances,Fashion
+569,21,Female,1347647,1,166,28,Books,Home Appliances
+570,53,Female,1430844,92,205,46,Groceries,Electronics
+571,23,Female,1197858,63,238,11,Electronics,Home Appliances
+572,48,Male,558918,24,32,36,Home Appliances,Fashion
+573,36,Male,689626,99,15,29,Electronics,Electronics
+574,56,Female,488859,13,210,22,Home Appliances,Fashion
+575,44,Female,1014037,98,171,15,Fashion,Electronics
+576,27,Male,755462,11,251,13,Electronics,Groceries
+577,43,Male,1127460,51,51,9,Fashion,Home Appliances
+578,36,Male,1324949,17,250,6,Electronics,Home Appliances
+579,56,Female,1441597,99,131,44,Groceries,Electronics
+580,20,Male,393718,82,151,36,Books,Electronics
+581,30,Male,794305,86,122,28,Fashion,Electronics
+582,45,Female,263037,24,156,2,Home Appliances,Groceries
+583,37,Male,730836,19,76,14,Groceries,Groceries
+584,45,Male,841269,37,141,35,Electronics,Home Appliances
+585,25,Male,1482789,85,179,46,Fashion,Electronics
+586,58,Female,404366,8,293,45,Electronics,Fashion
+587,56,Female,702420,28,23,18,Electronics,Groceries
+588,18,Female,354249,5,199,12,Electronics,Groceries
+589,20,Female,1238199,17,179,41,Books,Home Appliances
+590,30,Female,860902,36,145,20,Books,Home Appliances
+591,45,Female,1470660,19,250,36,Home Appliances,Home Appliances
+592,42,Female,1309004,64,97,26,Fashion,Home Appliances
+593,50,Male,1436180,91,243,28,Groceries,Electronics
+594,55,Male,740340,98,209,19,Groceries,Electronics
+595,23,Female,1349265,11,52,24,Groceries,Home Appliances
+596,49,Male,902436,54,249,5,Electronics,Home Appliances
+597,38,Male,646636,45,299,35,Books,Fashion
+598,33,Female,856031,47,132,1,Fashion,Home Appliances
+599,38,Male,462307,12,286,21,Electronics,Fashion
+600,28,Male,1171248,21,21,31,Books,Home Appliances
+601,54,Male,663547,11,75,15,Books,Groceries
+602,53,Male,603850,92,273,17,Fashion,Electronics
+603,52,Male,1384446,5,286,4,Fashion,Home Appliances
+604,36,Female,710259,81,11,35,Fashion,Electronics
+605,37,Female,1259325,56,107,29,Electronics,Home Appliances
+606,35,Female,828419,20,197,44,Home Appliances,Home Appliances
+607,58,Male,425019,41,245,18,Fashion,Groceries
+608,31,Female,797218,46,66,22,Home Appliances,Fashion
+609,32,Male,1017052,12,21,33,Electronics,Home Appliances
+610,48,Male,919401,70,175,12,Home Appliances,Home Appliances
+611,18,Male,1301928,17,29,42,Groceries,Home Appliances
+612,20,Male,624127,19,255,28,Home Appliances,Fashion
+613,33,Female,1412432,26,257,35,Fashion,Home Appliances
+614,40,Female,203191,48,211,21,Electronics,Fashion
+615,28,Male,828864,52,33,46,Fashion,Home Appliances
+616,29,Female,1444289,96,121,35,Groceries,Electronics
+617,27,Male,642939,70,286,8,Fashion,Groceries
+618,49,Female,1252207,55,148,38,Fashion,Home Appliances
+619,33,Female,1385820,75,29,18,Fashion,Electronics
+620,25,Male,504224,33,160,37,Books,Fashion
+621,55,Female,420169,62,77,5,Groceries,Groceries
+622,29,Male,814641,88,124,46,Fashion,Electronics
+623,41,Female,752959,23,97,14,Fashion,Groceries
+624,45,Male,421972,15,90,19,Fashion,Groceries
+625,25,Male,948321,27,122,8,Electronics,Home Appliances
+626,45,Female,708679,75,237,31,Books,Electronics
+627,53,Female,621818,64,203,3,Electronics,Groceries
+628,43,Male,904590,81,210,49,Books,Electronics
+629,25,Female,1191120,51,151,17,Fashion,Home Appliances
+630,45,Female,1255675,53,275,4,Groceries,Home Appliances
+631,45,Male,780780,78,143,19,Home Appliances,Electronics
+632,54,Male,1345298,91,185,22,Home Appliances,Electronics
+633,58,Female,1165188,82,34,10,Fashion,Electronics
+634,53,Male,754399,92,61,36,Electronics,Electronics
+635,44,Male,263936,51,236,21,Groceries,Fashion
+636,34,Male,423332,47,150,3,Books,Groceries
+637,26,Female,925836,4,52,28,Fashion,Home Appliances
+638,50,Female,687510,7,198,43,Groceries,Fashion
+639,37,Male,263530,35,228,33,Groceries,Fashion
+640,30,Female,1396179,48,140,12,Books,Home Appliances
+641,45,Male,1074772,73,26,41,Groceries,Electronics
+642,46,Female,1162361,72,10,8,Electronics,Electronics
+643,30,Male,341214,45,208,41,Electronics,Fashion
+644,52,Male,839341,81,243,30,Electronics,Electronics
+645,23,Female,603082,81,189,6,Groceries,Electronics
+646,35,Male,401139,97,296,3,Electronics,Electronics
+647,22,Female,1228494,96,224,18,Books,Electronics
+648,42,Female,1221318,72,120,41,Groceries,Electronics
+649,19,Male,849714,19,53,29,Home Appliances,Home Appliances
+650,27,Male,788315,63,177,30,Groceries,Fashion
+651,47,Female,1407786,38,86,34,Books,Home Appliances
+652,22,Male,292601,67,49,20,Home Appliances,Groceries
+653,50,Male,1278532,59,24,30,Groceries,Home Appliances
+654,18,Male,1486916,69,225,18,Electronics,Home Appliances
+655,35,Male,829085,13,127,30,Fashion,Home Appliances
+656,49,Male,1112735,47,238,31,Fashion,Home Appliances
+657,28,Female,621486,61,225,1,Electronics,Groceries
+658,38,Female,803103,31,7,9,Fashion,Home Appliances
+659,43,Male,239279,80,186,1,Fashion,Electronics
+660,42,Male,571931,96,210,1,Electronics,Electronics
+661,39,Male,348702,22,44,23,Electronics,Fashion
+662,44,Female,1309639,93,63,16,Groceries,Electronics
+663,30,Male,973887,86,66,31,Groceries,Electronics
+664,50,Female,852184,43,136,15,Electronics,Home Appliances
+665,51,Female,645377,67,64,15,Books,Groceries
+666,58,Female,719089,54,126,45,Fashion,Fashion
+667,52,Male,946434,10,111,38,Groceries,Home Appliances
+668,18,Female,1457008,42,100,30,Fashion,Home Appliances
+669,38,Male,382051,64,239,42,Home Appliances,Fashion
+670,23,Female,1346237,21,66,23,Electronics,Home Appliances
+671,45,Male,1143693,80,260,0,Books,Electronics
+672,34,Female,323257,76,53,10,Home Appliances,Electronics
+673,22,Male,1179062,66,163,20,Home Appliances,Home Appliances
+674,48,Female,1175217,41,128,3,Home Appliances,Home Appliances
+675,22,Male,1203171,24,211,6,Electronics,Home Appliances
+676,55,Male,1123482,35,52,25,Groceries,Home Appliances
+677,20,Male,1003585,56,140,46,Electronics,Home Appliances
+678,40,Male,954444,30,205,49,Groceries,Home Appliances
+679,54,Female,312990,57,254,11,Home Appliances,Groceries
+680,54,Female,1318095,94,299,30,Home Appliances,Electronics
+681,27,Male,1258079,47,213,16,Books,Home Appliances
+682,27,Female,1440351,35,215,32,Groceries,Home Appliances
+683,36,Male,1181883,19,196,10,Home Appliances,Home Appliances
+684,34,Male,913226,8,48,27,Fashion,Home Appliances
+685,38,Female,1396553,26,33,31,Books,Home Appliances
+686,31,Male,226806,71,63,0,Electronics,Electronics
+687,26,Male,1424648,30,75,46,Books,Home Appliances
+688,18,Female,615384,7,96,27,Fashion,Fashion
+689,30,Male,270119,67,269,41,Groceries,Fashion
+690,21,Male,1433741,65,224,6,Electronics,Home Appliances
+691,18,Male,829720,36,219,1,Electronics,Home Appliances
+692,57,Male,670641,25,281,41,Groceries,Fashion
+693,49,Female,1079381,37,68,23,Books,Home Appliances
+694,51,Female,607507,1,296,3,Home Appliances,Groceries
+695,45,Female,1063403,15,249,43,Books,Home Appliances
+696,48,Male,1079903,37,66,18,Fashion,Home Appliances
+697,25,Male,1085421,13,174,25,Home Appliances,Home Appliances
+698,56,Female,284080,8,273,10,Books,Groceries
+699,43,Male,1178836,5,271,39,Groceries,Home Appliances
+700,51,Male,1326370,60,58,49,Fashion,Home Appliances
+701,20,Male,492985,73,20,42,Fashion,Electronics
+702,29,Male,324447,1,12,10,Fashion,Groceries
+703,18,Female,320029,36,108,44,Home Appliances,Fashion
+704,22,Female,379830,35,63,2,Electronics,Groceries
+705,47,Female,761931,66,44,11,Home Appliances,Groceries
+706,47,Male,506094,63,241,2,Books,Groceries
+707,34,Female,1436497,23,98,41,Electronics,Home Appliances
+708,40,Female,883404,9,226,26,Books,Home Appliances
+709,32,Male,587732,34,208,48,Electronics,Fashion
+710,54,Male,1066183,46,142,1,Home Appliances,Home Appliances
+711,38,Female,822893,78,211,48,Fashion,Electronics
+712,31,Female,1041965,4,85,15,Groceries,Home Appliances
+713,19,Female,544710,30,222,1,Fashion,Groceries
+714,28,Female,832543,95,6,29,Home Appliances,Electronics
+715,56,Male,984586,75,182,19,Electronics,Electronics
+716,55,Female,1211967,99,283,37,Fashion,Electronics
+717,51,Female,651157,72,150,27,Home Appliances,Electronics
+718,55,Male,1306581,3,228,24,Books,Home Appliances
+719,51,Female,1465898,14,66,31,Groceries,Home Appliances
+720,35,Male,1438360,60,298,9,Fashion,Home Appliances
+721,47,Male,223387,77,243,41,Electronics,Electronics
+722,32,Male,1080412,45,199,39,Books,Home Appliances
+723,44,Female,1334033,96,170,32,Home Appliances,Electronics
+724,51,Female,344129,34,226,12,Groceries,Groceries
+725,55,Male,1228308,45,65,40,Electronics,Home Appliances
+726,50,Female,517875,61,133,41,Home Appliances,Fashion
+727,41,Female,1428337,83,177,46,Home Appliances,Electronics
+728,32,Male,768926,16,160,36,Fashion,Fashion
+729,47,Male,684814,66,114,15,Fashion,Groceries
+730,59,Female,1426134,40,273,44,Electronics,Home Appliances
+731,34,Male,622955,17,282,21,Home Appliances,Fashion
+732,22,Female,1252330,34,78,19,Fashion,Home Appliances
+733,46,Female,267260,16,211,49,Groceries,Fashion
+734,21,Female,1315488,60,283,42,Groceries,Home Appliances
+735,27,Female,456695,66,208,26,Home Appliances,Fashion
+736,34,Male,732994,66,165,40,Fashion,Fashion
+737,27,Male,995326,90,32,15,Electronics,Electronics
+738,34,Male,546130,13,261,33,Electronics,Fashion
+739,37,Male,1068374,56,169,31,Electronics,Home Appliances
+740,41,Female,229725,31,67,25,Groceries,Fashion
+741,22,Female,1385574,34,26,24,Fashion,Home Appliances
+742,51,Male,304555,39,74,1,Fashion,Groceries
+743,23,Female,461486,67,100,11,Groceries,Groceries
+744,19,Female,995928,8,167,39,Electronics,Home Appliances
+745,30,Female,1088036,87,83,8,Electronics,Electronics
+746,28,Male,1074631,78,9,11,Home Appliances,Electronics
+747,40,Male,765609,55,124,25,Books,Fashion
+748,33,Male,433103,27,182,8,Fashion,Groceries
+749,48,Female,1182599,93,180,9,Fashion,Electronics
+750,28,Male,615872,53,221,31,Fashion,Fashion
+751,33,Male,255147,39,60,33,Books,Fashion
+752,25,Male,642882,65,191,47,Home Appliances,Fashion
+753,21,Male,675584,17,236,19,Books,Groceries
+754,57,Male,500931,30,259,38,Electronics,Fashion
+755,21,Male,444839,53,108,1,Electronics,Groceries
+756,42,Female,656162,13,81,0,Fashion,Groceries
+757,20,Female,746015,21,234,35,Groceries,Fashion
+758,49,Male,1343657,19,262,23,Fashion,Home Appliances
+759,20,Male,889556,53,268,26,Groceries,Home Appliances
+760,44,Female,892095,19,186,1,Books,Home Appliances
+761,46,Female,960109,57,260,30,Electronics,Home Appliances
+762,49,Male,1328678,25,42,13,Groceries,Home Appliances
+763,36,Male,1197082,86,180,1,Books,Electronics
+764,38,Male,356570,31,31,28,Electronics,Fashion
+765,22,Male,1316271,81,280,14,Groceries,Electronics
+766,35,Female,631116,55,144,11,Fashion,Groceries
+767,45,Male,721608,23,291,36,Fashion,Fashion
+768,59,Male,317235,32,95,27,Fashion,Fashion
+769,39,Male,1202403,62,65,19,Books,Home Appliances
+770,38,Male,1267609,74,167,38,Fashion,Electronics
+771,23,Female,716409,10,147,23,Home Appliances,Fashion
+772,18,Female,866165,72,257,20,Electronics,Electronics
+773,22,Female,891211,54,273,9,Books,Home Appliances
+774,58,Male,751120,52,295,45,Fashion,Fashion
+775,29,Male,1443085,20,191,13,Electronics,Home Appliances
+776,43,Female,345016,32,295,36,Groceries,Fashion
+777,51,Male,482017,14,90,17,Fashion,Groceries
+778,31,Male,1338040,50,170,23,Electronics,Home Appliances
+779,43,Female,870739,28,118,13,Home Appliances,Home Appliances
+780,44,Female,1365898,53,187,33,Groceries,Home Appliances
+781,26,Female,945182,24,211,11,Home Appliances,Home Appliances
+782,43,Female,647557,79,260,21,Electronics,Electronics
+783,39,Male,998519,22,239,5,Home Appliances,Home Appliances
+784,47,Male,616978,30,7,35,Electronics,Fashion
+785,34,Female,1233316,63,212,44,Electronics,Home Appliances
+786,43,Male,1069049,4,201,35,Home Appliances,Home Appliances
+787,53,Female,824771,77,129,21,Electronics,Electronics
+788,18,Female,723886,59,142,13,Fashion,Groceries
+789,25,Male,1483203,87,29,15,Electronics,Electronics
+790,52,Female,742601,8,72,35,Books,Fashion
+791,32,Male,1363490,82,65,24,Electronics,Electronics
+792,39,Male,747993,12,33,31,Books,Fashion
+793,31,Male,303892,31,23,32,Electronics,Fashion
+794,43,Male,843942,78,175,44,Electronics,Electronics
+795,45,Female,1439444,34,78,35,Home Appliances,Home Appliances
+796,40,Male,1328649,82,65,19,Fashion,Electronics
+797,31,Female,304195,98,157,17,Fashion,Electronics
+798,41,Female,916987,75,280,37,Groceries,Electronics
+799,19,Female,1282424,76,52,2,Home Appliances,Electronics
+800,43,Female,1132883,49,215,22,Home Appliances,Home Appliances
+801,31,Male,1226630,79,143,31,Fashion,Electronics
+802,24,Male,268099,57,114,44,Home Appliances,Fashion
+803,20,Female,1212237,95,187,15,Fashion,Electronics
+804,40,Female,1317698,93,32,4,Home Appliances,Electronics
+805,35,Male,773156,26,201,3,Electronics,Groceries
+806,55,Female,686275,18,195,20,Fashion,Groceries
+807,52,Male,498871,96,55,39,Fashion,Electronics
+808,32,Female,1357655,86,153,13,Books,Electronics
+809,42,Male,1052129,38,272,38,Home Appliances,Home Appliances
+810,54,Female,1264605,81,54,30,Home Appliances,Electronics
+811,45,Female,1494929,87,250,13,Fashion,Electronics
+812,27,Male,607442,88,117,5,Electronics,Electronics
+813,56,Female,1443294,50,174,11,Electronics,Home Appliances
+814,34,Female,1096816,8,170,15,Electronics,Home Appliances
+815,56,Male,1317502,41,18,16,Home Appliances,Home Appliances
+816,39,Female,517650,6,207,44,Books,Fashion
+817,43,Male,643031,69,292,22,Fashion,Fashion
+818,42,Male,1290668,44,193,13,Groceries,Home Appliances
+819,34,Female,1183581,64,159,6,Books,Home Appliances
+820,30,Female,352889,29,59,45,Groceries,Fashion
+821,37,Female,893221,28,186,31,Books,Home Appliances
+822,42,Female,375006,11,214,14,Electronics,Groceries
+823,21,Female,969727,65,79,43,Home Appliances,Home Appliances
+824,27,Female,1389906,19,281,16,Groceries,Home Appliances
+825,20,Female,1306351,9,137,40,Books,Home Appliances
+826,58,Male,490998,27,63,46,Home Appliances,Fashion
+827,35,Female,861616,34,186,43,Groceries,Home Appliances
+828,53,Male,276256,44,68,33,Fashion,Fashion
+829,39,Female,1151441,68,264,4,Books,Home Appliances
+830,51,Female,381360,82,197,44,Fashion,Electronics
+831,25,Male,546874,15,147,26,Electronics,Fashion
+832,57,Female,618267,51,108,22,Fashion,Fashion
+833,36,Female,1491210,13,218,39,Fashion,Home Appliances
+834,59,Male,1133688,83,246,13,Books,Electronics
+835,58,Female,233787,49,213,14,Electronics,Groceries
+836,54,Female,745909,70,97,42,Fashion,Fashion
+837,23,Female,802272,56,146,32,Home Appliances,Home Appliances
+838,43,Male,511955,76,116,30,Groceries,Electronics
+839,51,Female,230447,51,63,34,Fashion,Fashion
+840,23,Female,328046,37,47,16,Electronics,Groceries
+841,54,Female,939290,17,211,27,Fashion,Home Appliances
+842,50,Female,1217541,58,272,18,Groceries,Home Appliances
+843,39,Male,841147,87,122,45,Electronics,Electronics
+844,38,Male,388490,90,24,22,Books,Electronics
+845,23,Female,1232038,29,226,31,Electronics,Home Appliances
+846,23,Female,607688,33,170,39,Books,Fashion
+847,21,Male,704409,60,135,12,Electronics,Groceries
+848,47,Male,1486980,91,160,19,Groceries,Electronics
+849,28,Female,716595,89,188,34,Groceries,Electronics
+850,47,Male,863689,55,94,4,Electronics,Home Appliances
+851,48,Female,365937,10,98,8,Fashion,Groceries
+852,41,Male,1295426,47,17,28,Groceries,Home Appliances
+853,26,Male,443306,23,297,5,Books,Groceries
+854,20,Male,1342384,85,234,24,Books,Electronics
+855,48,Male,861757,21,296,30,Home Appliances,Home Appliances
+856,57,Female,428981,13,30,21,Books,Fashion
+857,54,Male,722220,33,79,1,Home Appliances,Groceries
+858,53,Male,253072,24,154,44,Electronics,Fashion
+859,41,Female,1271860,11,152,4,Electronics,Home Appliances
+860,48,Male,283369,17,12,26,Electronics,Fashion
+861,23,Male,1011554,68,33,24,Fashion,Home Appliances
+862,19,Female,937266,47,213,7,Fashion,Home Appliances
+863,37,Male,787100,25,132,0,Home Appliances,Groceries
+864,45,Female,484580,94,120,19,Books,Electronics
+865,28,Female,723156,73,148,43,Books,Electronics
+866,21,Female,969097,21,239,22,Electronics,Home Appliances
+867,32,Female,452164,84,11,31,Groceries,Electronics
+868,23,Male,969605,83,49,10,Fashion,Electronics
+869,47,Female,350787,83,243,38,Fashion,Electronics
+870,55,Male,360381,12,159,46,Electronics,Fashion
+871,19,Male,649830,37,185,23,Fashion,Fashion
+872,32,Male,1104098,42,219,10,Electronics,Home Appliances
+873,28,Male,268920,17,92,28,Home Appliances,Fashion
+874,25,Male,1030051,48,260,25,Books,Home Appliances
+875,43,Male,850024,28,77,15,Groceries,Home Appliances
+876,22,Male,1130997,41,183,34,Books,Home Appliances
+877,23,Male,741357,99,216,19,Books,Electronics
+878,43,Male,207531,47,297,45,Home Appliances,Fashion
+879,21,Male,630267,18,238,2,Fashion,Groceries
+880,36,Female,1315731,78,243,0,Groceries,Electronics
+881,37,Female,1131479,99,227,46,Fashion,Electronics
+882,50,Female,507747,71,123,0,Books,Electronics
+883,37,Male,1140756,13,268,16,Electronics,Home Appliances
+884,29,Female,674013,82,211,1,Books,Electronics
+885,18,Female,332503,13,99,28,Fashion,Fashion
+886,43,Female,892841,31,226,19,Books,Home Appliances
+887,31,Male,864917,2,280,5,Electronics,Home Appliances
+888,55,Male,1152246,16,235,7,Home Appliances,Home Appliances
+889,54,Male,219675,9,123,28,Fashion,Fashion
+890,28,Male,273997,73,272,47,Books,Electronics
+891,53,Female,348087,38,277,32,Fashion,Fashion
+892,30,Female,1167561,75,68,2,Home Appliances,Electronics
+893,20,Female,686799,54,15,34,Books,Fashion
+894,50,Female,719349,56,102,4,Books,Groceries
+895,23,Male,955678,86,75,26,Fashion,Electronics
+896,27,Male,340905,97,62,43,Fashion,Electronics
+897,22,Male,470040,87,294,11,Electronics,Electronics
+898,40,Female,511877,45,255,19,Home Appliances,Groceries
+899,27,Male,766088,34,280,44,Electronics,Fashion
+900,19,Male,1344620,9,54,19,Books,Home Appliances
+901,30,Female,467491,88,220,8,Fashion,Electronics
+902,57,Female,689066,8,56,38,Books,Fashion
+903,19,Male,858003,7,275,3,Books,Home Appliances
+904,37,Male,502929,36,88,18,Groceries,Groceries
+905,18,Male,1005113,18,297,37,Groceries,Home Appliances
+906,54,Male,566008,3,130,26,Books,Fashion
+907,26,Male,1133396,28,76,44,Fashion,Home Appliances
+908,34,Male,1033731,70,240,42,Books,Home Appliances
+909,26,Female,1265649,44,60,12,Groceries,Home Appliances
+910,28,Female,953158,21,114,12,Fashion,Home Appliances
+911,32,Female,315359,28,196,21,Books,Fashion
+912,41,Male,1125431,54,97,27,Home Appliances,Home Appliances
+913,55,Female,266707,54,60,46,Home Appliances,Fashion
+914,52,Male,451351,65,64,44,Books,Fashion
+915,47,Male,670670,21,142,21,Fashion,Fashion
+916,48,Female,1487087,99,43,42,Books,Electronics
+917,22,Male,1484294,13,32,18,Books,Home Appliances
+918,31,Male,250601,57,53,7,Groceries,Groceries
+919,28,Female,1194969,49,129,7,Home Appliances,Home Appliances
+920,26,Female,695479,54,17,41,Groceries,Fashion
+921,51,Female,451924,10,40,25,Groceries,Fashion
+922,29,Male,983441,53,105,47,Books,Home Appliances
+923,52,Female,449430,44,286,25,Groceries,Fashion
+924,52,Female,1371364,47,90,22,Home Appliances,Home Appliances
+925,18,Male,480466,53,8,42,Groceries,Fashion
+926,57,Female,650930,74,227,12,Home Appliances,Electronics
+927,39,Female,1310868,46,170,27,Groceries,Home Appliances
+928,46,Female,753343,13,282,8,Home Appliances,Groceries
+929,25,Male,505035,37,134,19,Groceries,Groceries
+930,28,Male,468448,24,35,18,Groceries,Groceries
+931,58,Male,1408948,2,15,47,Fashion,Home Appliances
+932,54,Male,1141763,86,100,38,Home Appliances,Electronics
+933,31,Female,291006,81,194,11,Home Appliances,Electronics
+934,47,Male,329350,14,196,14,Home Appliances,Groceries
+935,52,Male,888725,10,270,30,Electronics,Home Appliances
+936,38,Female,1005878,35,132,13,Groceries,Home Appliances
+937,54,Female,988768,25,242,10,Home Appliances,Home Appliances
+938,22,Female,406487,3,116,25,Electronics,Fashion
+939,36,Male,297852,17,149,41,Fashion,Fashion
+940,31,Male,1387169,12,69,26,Home Appliances,Home Appliances
+941,43,Male,927067,54,251,10,Home Appliances,Home Appliances
+942,21,Female,878841,24,227,37,Electronics,Home Appliances
+943,42,Female,480618,29,110,33,Groceries,Fashion
+944,59,Male,1426408,43,185,42,Fashion,Home Appliances
+945,42,Female,1042150,25,188,18,Home Appliances,Home Appliances
+946,35,Female,245232,60,230,5,Groceries,Groceries
+947,57,Female,548688,90,269,45,Fashion,Electronics
+948,25,Male,660385,65,282,37,Books,Fashion
+949,56,Female,983301,84,93,48,Books,Electronics
+950,57,Female,512813,28,180,41,Fashion,Fashion
+951,31,Male,1457669,16,22,27,Electronics,Home Appliances
+952,49,Male,1226657,47,110,0,Fashion,Home Appliances
+953,55,Female,1261716,81,275,34,Fashion,Electronics
+954,50,Female,738645,92,171,39,Electronics,Electronics
+955,40,Male,1360248,58,17,7,Electronics,Home Appliances
+956,32,Male,530817,76,36,46,Groceries,Electronics
+957,50,Female,932303,27,44,6,Groceries,Home Appliances
+958,42,Female,820399,53,152,10,Electronics,Home Appliances
+959,34,Female,1064690,42,222,38,Books,Home Appliances
+960,50,Female,606140,59,223,3,Books,Groceries
+961,19,Male,1317862,47,86,24,Fashion,Home Appliances
+962,31,Female,293269,94,212,11,Home Appliances,Electronics
+963,57,Female,458635,34,205,25,Fashion,Fashion
+964,57,Male,1322647,37,42,37,Fashion,Home Appliances
+965,56,Female,1469671,6,215,45,Home Appliances,Home Appliances
+966,23,Male,713317,7,253,11,Electronics,Groceries
+967,23,Female,1279227,96,231,42,Books,Electronics
+968,20,Female,270202,96,52,36,Fashion,Electronics
+969,24,Male,1297353,25,22,45,Home Appliances,Home Appliances
+970,25,Male,348066,33,299,23,Groceries,Fashion
+971,59,Female,1053695,55,200,15,Fashion,Home Appliances
+972,32,Female,390706,58,191,12,Books,Groceries
+973,46,Female,824446,7,228,24,Electronics,Home Appliances
+974,50,Male,997232,57,233,3,Fashion,Home Appliances
+975,47,Female,1024255,12,81,10,Fashion,Home Appliances
+976,56,Male,480852,16,192,31,Home Appliances,Fashion
+977,44,Male,868179,80,274,48,Groceries,Electronics
+978,53,Female,788158,43,99,6,Groceries,Groceries
+979,46,Male,733571,77,136,45,Electronics,Electronics
+980,55,Female,1065139,7,43,10,Books,Home Appliances
+981,50,Female,1451703,51,76,27,Electronics,Home Appliances
+982,54,Female,1390631,73,285,40,Fashion,Electronics
+983,44,Female,1004565,32,164,22,Fashion,Home Appliances
+984,50,Female,725069,75,191,44,Groceries,Electronics
+985,21,Male,314586,8,195,22,Books,Fashion
+986,39,Male,489768,97,124,49,Home Appliances,Electronics
+987,19,Female,731111,87,224,27,Books,Electronics
+988,27,Female,742777,89,57,42,Fashion,Electronics
+989,22,Male,1236059,72,226,46,Home Appliances,Electronics
+990,27,Male,371033,45,135,25,Books,Fashion
+991,50,Male,1348993,86,241,24,Books,Electronics
+992,55,Male,1330392,59,250,28,Home Appliances,Home Appliances
+993,30,Female,475709,4,230,18,Fashion,Groceries
+994,48,Female,374023,67,212,32,Books,Fashion
+995,53,Male,1077611,29,100,35,Home Appliances,Home Appliances
+996,41,Female,747936,29,204,13,Fashion,Groceries
+997,32,Male,643945,98,251,13,Home Appliances,Electronics
+998,46,Female,1290547,98,76,34,Home Appliances,Electronics
+999,25,Male,218658,28,189,29,Books,Fashion
+1000,22,Female,221253,77,10,27,Fashion,Electronics
