@@ -7,9 +7,9 @@ The system uses a trained ML model and is deployed using Flask with an interacti
 
 ## Project Overview
 
-Customer Product Prediction is a **supervised machine learning classification project** designed to assist businesses in understanding customer behavior and improving product recommendations.
+Customer Product Prediction is a "supervised machine learning classification project" designed to assist businesses in understanding customer behavior and improving product recommendations.
 
-This project was developed as a **Final-Year Engineering Project** and demonstrates the complete ML lifecycle:
+This project was developed as a "Final-Year Engineering Project" and demonstrates the complete ML lifecycle:
 - Data preprocessing
 - Model training and evaluation
 - Model serialization
@@ -19,15 +19,15 @@ This project was developed as a **Final-Year Engineering Project** and demonstra
 
 ## Problem Statement
 
-To predict the **next product category** a customer is likely to purchase using historical customer data such as age, income, spending behavior, browsing time, and past purchases.
+To predict the "next product category" a customer is likely to purchase using historical customer data such as age, income, spending behavior, browsing time, and past purchases.
 
 ---
 
 ## Machine Learning Approach
 
-- **Type:** Multi-class Classification  
-- **Algorithm Used:** Random Forest Classifier  
-- **Why Random Forest?**
+- Type: Multi-class Classification  
+- Algorithm Used: Random Forest Classifier  
+- Why Random Forest?
   - Handles non-linear data well
   - Reduces overfitting
   - Provides high accuracy for tabular datasets
@@ -36,12 +36,12 @@ To predict the **next product category** a customer is likely to purchase using 
 
 ## Tech Stack
 
-- **Programming Language:** Python  
-- **Machine Learning:** Scikit-learn  
-- **Web Framework:** Flask  
-- **Data Processing:** Pandas, NumPy  
-- **Frontend:** HTML, CSS  
-- **Model Serialization:** Pickle  
+- Programming Language: Python  
+- Machine Learning: Scikit-learn  
+- Web Framework: Flask  
+- Data Processing: Pandas, NumPy  
+- Frontend: HTML, CSS  
+- Model Serialization: Pickle  
 
 ---
 
@@ -147,7 +147,9 @@ This project fulfills final-year project requirements by covering:
 
     Evaluation and future scope
 
- Author
+---
+
+# Author
 
 NAKSHATRA MEENA
 
