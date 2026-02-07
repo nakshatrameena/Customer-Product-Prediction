@@ -1,11 +1,11 @@
-# Customer Product Prediction System 🚀
+# Customer Product Prediction System
 
 A Machine Learning–based web application that predicts the most likely product category a customer will purchase based on demographic and behavioral data.  
 The system uses a trained ML model and is deployed using Flask with an interactive web interface.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Customer Product Prediction is a **supervised machine learning classification project** designed to assist businesses in understanding customer behavior and improving product recommendations.
 
@@ -17,13 +17,13 @@ This project was developed as a **Final-Year Engineering Project** and demonstra
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 To predict the **next product category** a customer is likely to purchase using historical customer data such as age, income, spending behavior, browsing time, and past purchases.
 
 ---
 
-## 🧠 Machine Learning Approach
+## Machine Learning Approach
 
 - **Type:** Multi-class Classification  
 - **Algorithm Used:** Random Forest Classifier  
@@ -34,7 +34,7 @@ To predict the **next product category** a customer is likely to purchase using 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Programming Language:** Python  
 - **Machine Learning:** Scikit-learn  
@@ -45,7 +45,7 @@ To predict the **next product category** a customer is likely to purchase using 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Customer-Product-Prediction/
 │── app.py # Flask application
@@ -64,13 +64,13 @@ Customer-Product-Prediction/
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
-### 1️⃣ Install Dependencies
+### 1️ Install Dependencies
 ```bash
 pip install -r requirements.txt
 
-2️⃣ Train the Model
+2️ Train the Model
 
 python train_model.py
 
@@ -80,11 +80,11 @@ This will generate:
 
     scaler.pkl
 
-3️⃣ Run the Flask App
+3️ Run the Flask App
 
 python app.py
 
-4️⃣ Open in Browser
+4️ Open in Browser
 
 http://127.0.0.1:5000/
 
@@ -100,7 +100,7 @@ http://127.0.0.1:5000/
 
     Scalable ML deployment architecture
 
-📊 Dataset Description
+ Dataset Description
 
 The dataset is synthetically generated and includes:
 
@@ -113,7 +113,7 @@ The dataset is synthetically generated and includes:
     Target product category
 
 This ensures privacy while maintaining realistic patterns for learning.
-📈 Results & Insights
+ Results & Insights
 
     Spending score and past purchases are strong predictors
 
@@ -121,7 +121,7 @@ This ensures privacy while maintaining realistic patterns for learning.
 
     Model can be extended for real-world recommendation systems
 
-🚀 Future Enhancements
+ Future Enhancements
 
     Add confidence/probability scores
 
@@ -133,7 +133,7 @@ This ensures privacy while maintaining realistic patterns for learning.
 
     Add user authentication
 
-🎓 Academic Relevance
+ Academic Relevance
 
 This project fulfills final-year project requirements by covering:
 
@@ -147,7 +147,7 @@ This project fulfills final-year project requirements by covering:
 
     Evaluation and future scope
 
-👤 Author
+ Author
 
 NAKSHATRA MEENA
 
