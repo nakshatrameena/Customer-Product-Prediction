@@ -8,6 +8,7 @@ scaler = pickle.load(open("scaler.pkl", "rb"))
 
 st.title("Customer Product Prediction")
 
+# Input fields
 age = st.number_input("Age", 1, 100, 25)
 gender = st.selectbox("Gender", [0, 1])
 income = st.number_input("Income", 0, 100000, 50000)
